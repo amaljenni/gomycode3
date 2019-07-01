@@ -1,0 +1,61 @@
+body{
+    background:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),Linear-gradient(127deg, black, black 70.71%),   
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+#s{
+height: 50%;
+width: 100%;
+margin-right:20%;
+}
+.active{
+    margin-left:10%; 
+    margin-right:10%; 
+}
+.center{
+    text-align: center;
+}
+.container{
+    background-image: url("../res/webdev3.png");
+    height: 450px;
+    width: 100%;
+    padding: 50px;
+}
+.title{
+    font-size: 800%;
+    color: beige;
+}
+.link{
+    color: blanchedalmond;
+    font-size: 150%;
+    text-decoration: none;
+    font-style: oblique; 
+}
+.textelement{
+    font-size: 120%;
+    color: beige;
+}
+.sizeelement{
+    width:23%;
+    line-height: 30px;
+
+}
+.sizeselect{
+    width:23%;
+    font-size: 30px;
+}
+
+
+.submit{
+    background-color: blue;
+    border:blue;
+    width: 100px;
+    height: 50px;
+    font-size: 12px;
+    
+}
+.submit:hover{
+    color: blueviolet;
+    background: blueviolet;
+    
+    
+}
